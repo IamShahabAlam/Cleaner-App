@@ -4,13 +4,10 @@ Junk Cleaner Flutter Project (Flutter 2.0.6)
 
 ## Features
 
-- Firebase Authentication
-- Email Signup
-- Email Login  
-- 40+ Screens
-- Admin Panel
-- Feedbacks
-- Ratings
+- CLeaner App UI
+- Responsive UI
+- 2 Screens
+- ScreenUtil Tested
 
 ## Demonstration
 

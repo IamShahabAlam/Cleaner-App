@@ -14,6 +14,8 @@ Junk Cleaner Flutter Project (Flutter 2.0.6)
 
 <img align="left" src="https://user-images.githubusercontent.com/82330891/184944258-957d5e62-366d-473b-95a7-732c086038a2.png" />
 
+<br/>
+<br/>
 
 <!-- ## Result Screen -->
 

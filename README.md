@@ -12,10 +12,7 @@ Junk Cleaner Flutter Project (Flutter 2.0.6)
 ## Demonstration
 
 
-<img align="left" src="https://user-images.githubusercontent.com/82330891/184944258-957d5e62-366d-473b-95a7-732c086038a2.png" />
-
-<br/>
-<br/>
+<img align="left" src="https://user-images.githubusercontent.com/82330891/184944258-957d5e62-366d-473b-95a7-732c086038a2.png" /> &nbsp; 
 
 <!-- ## Result Screen -->
 
@@ -48,10 +45,12 @@ Junk Cleaner Flutter Project (Flutter 2.0.6)
 <img  alt="Gmail" height="22px" width="25px"  src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
 
 </a>
-            </div>
+            </div> &nbsp;
             
 ### For Assistance
 - FOLLOW <a href="https://github.com/IamShahabAlam"> HERE </a> <br/>
+
+&nbsp;
 
 > :blue_heart: &nbsp; Fluttering
 

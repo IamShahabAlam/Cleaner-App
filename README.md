@@ -12,7 +12,7 @@ Junk Cleaner Flutter Project (Flutter 2.0.6)
 ## Demonstration
 
 
-<img align="left" src="https://user-images.githubusercontent.com/82330891/184944258-957d5e62-366d-473b-95a7-732c086038a2.png" />  
+<img  src="https://user-images.githubusercontent.com/82330891/184944258-957d5e62-366d-473b-95a7-732c086038a2.png" />  
 
 <!-- ## Result Screen -->
 
